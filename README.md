@@ -42,7 +42,7 @@ Read more about issues and linking them to your pull requests [here](https://doc
 
 ### Your user profile
 
-Your profile page tells people the story of your work through the repositories you're interested in, the contributions you've made, and the conversations you've had. You can also give the world a unique view into who you are with your profile README. You can use your profile to let future employeers all about you! 
+Your profile page tells people the story of your work through the repositories you're interested in, the contributions you've made, and the conversations you've had. You can also give the world a unique view into who you are with your profile README. You can use your profile to let future employers know all about you! 
 
 Read more about your user profile and adding and updating your profile README [here](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme). 
 
