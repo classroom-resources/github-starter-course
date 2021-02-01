@@ -22,7 +22,7 @@ A repository is where your project work happens. It contains all of your project
 
 Repositories also contain README’s. You can add a README file to your repository to tell other people why your project is useful, what they can do with your project, and how they can use it. We are using this README to communicate how to learn Git and GitHub with you. :smile: 
 
-Read more about repositories here and repository README’s [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes). 
+Read more about repositories [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-repositories) and repository README’s [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes). 
 
 ### Pull requests
 
